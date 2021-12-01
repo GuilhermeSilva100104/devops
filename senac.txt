@@ -1,0 +1,3 @@
+Guilherme Silva - Utilizando o editor de texto VIM
+SENAC Tatuapé
+Utilizando os comando básicos do VIM...
